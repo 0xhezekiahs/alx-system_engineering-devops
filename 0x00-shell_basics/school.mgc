@@ -1,3 +1,4 @@
 # This is a magic file
 # it detects School data files
 0 string SCHOOL School data file
+!:mime	School
